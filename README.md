@@ -1,1 +1,2 @@
-# typescript_project
+npm i 
+npm start
